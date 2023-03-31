@@ -10,5 +10,5 @@ The following features will be implemented:
  
 The Earth object can be rotated using left/right arrow keys.
 
-To compile: make
+To compile: make  
 To run: ./main
